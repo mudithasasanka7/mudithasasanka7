@@ -28,5 +28,6 @@ I believe in steady progress and see every challenge as a chance to grow profess
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=mudithasasanka7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mudithasasanka7&color=blue)
 
 
