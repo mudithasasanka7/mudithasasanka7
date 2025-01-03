@@ -25,8 +25,8 @@ I believe in steady progress and see every challenge as a chance to grow profess
 ## 📋 Badge :
 <img src="aws-academy-graduate-aws-academy-cloud-foundations.png" width="20%"> <img src="it-essentials.png" width="20%">
 
-## Certificate :
-<img src="86f66a2ca9e9e26379e2d8229e771463.pdf" width="20%">
+## 📋 Certificate :
+<img src="geek.png" width="20%">
 
 ## 🏆GitHub Trophies 
 ![](https://github-trophies.vercel.app/?username=mudithasasanka7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
