@@ -22,8 +22,8 @@ I believe in steady progress and see every challenge as a chance to grow profess
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mudithasasanka7&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mudithasasanka7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📋 Badge :
-<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" width="20%"> <img src="it-essentials.png" width="20%">
+## 📋 Badge : 
+<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" width="20%"> <img src="it-essentials.png" width="20%"> <img src="postman badge.png" width="20%">
 
 ## 📋 Certificate :
 <img src="geek.png" width="20%"> <img src="2.png" width="20%"> <img src="3.png" width="20%"> <img src="4.png" width="20%"> <img src="5.png" width="20%"> <img src="6.png" width="20%"> <img src="7.png" width="20%"> <img src="8.png" width="20%">
